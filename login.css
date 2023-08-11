@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins);
+@import url(https://fonts.googleapis.com/css2?family=roboto);
+
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background: linear-gradient(rgb(207, 243, 0),rgb(0, 22, 216),red);
+}
+
+.waw{
+    text-align: center;
+    
+}
+
+.wew{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 15px;
+    border:none !important;
+    background-color: rgb(76, 19, 211);
+    cursor:pointer;
+    height: 28px;
+}
+
+button{
+    margin-top: 10px;
+    justify-content: center;
+    
+    
+}
+
+.tengah{
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    border-radius: 10%;
+    height: 58vh;
+    width: 27%;
+}
+
+input{
+    width: 300px;
+    border:none !important;
+    margin-top: 7px;
+    background-color: rgb(193, 199, 199);
+    border-radius: 10px;
+    padding-left: 15px;
+    height: 28px;
+    width: 95%;
+}
+
+.lupa-pw{
+    text-decoration: none;
+}
+
+p{
+    text-align: right;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.yaya{
+    color: aliceblue;
+}
+
+.wow{
+    justify-content: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 15px;
+    border:none !important;
+    background-color: rgb(193, 199, 199);
+    cursor:pointer;
+    height: 28px;
+}
+
+.lupa-pw:hover{
+    color: black;
+}
+
+.gambar1{
+    width: 20px;
+    vertical-align: center;
+    padding-right: 5px;
+}
+
+ .tengah .wiw{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 15px;
+    border:none !important;
+    background-color: black;
+    color: white;
+   
+}
+.wiw .google {
+    color: white;
+}
+
+.wow .bikin{
+    color: black;
+}
+
+.wiw{
+    cursor:pointer;
+    height: 28px;
+}
+
+.wew{
+    color: white    ;
+}
+
